@@ -68,7 +68,7 @@
     --message-bg: #f7f7f8;
     --input-bg: #f7f7f8;
     --hover-bg: rgba(0, 0, 0, 0.05);
-    --code-bg: #f0f0f0;
+    --code-bg: #000000;
     --scrollbar-thumb: rgba(200, 200, 200, 0.8);
     
     --modal-bg: #ffffff;
@@ -998,7 +998,7 @@ body {
 }
 
 .bot-message .message-bubble span {
-    color: var(--span-primary);
+    /* color: var(--span-primary); */
 }
 
 /* Code block spans */
